@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T01:30:05.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.6.1" etag="KNbpKM35qRgvRxBZpLYn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T01:42:53.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hG4C-N6LokhD-MaMRicV" version="21.6.1" type="github">
   <diagram name="Page-1" id="1AczGnW73k5XlJmuj2Ov">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="67bZfnRdbJqTuJRju34Y-9" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="14.25" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="48.5" width="63.55" height="52.11" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo-500x313.png;" vertex="1" parent="1">
+          <mxGeometry x="210" y="57.89" width="68.24" height="42.72" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="67bZfnRdbJqTuJRju34Y-5" target="67bZfnRdbJqTuJRju34Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-7" value="host" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="67bZfnRdbJqTuJRju34Y-6">
+          <mxGeometry x="-0.2309" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.datocms-assets.com/45470/1631110818-logo-react-js.png;clipPath=inset(0.76% 22.67% 0% 22.33%);" vertex="1" parent="1">
+          <mxGeometry x="60" y="39.25" width="67.51918158567774" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-10" value="Dockerized" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="44.25" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-11" value="x86_64" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="48.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-12" value="ARM 64" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="69.25" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
