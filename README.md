@@ -25,3 +25,4 @@ x86_64:
 `Docker run -p 8080:80 veronaz/project_5_verona:amdlatest`
 
 ## Diagram
+https://github.com/Veronaz/project_5_verona/blob/main/project_5_verona.drawio
