@@ -1,6 +1,7 @@
 # Project 5 Kubernetes
 
-Public repo url: 
+Github public repo url: https://github.com/Veronaz/project_5_verona
+Dockerhub public repo url: https://hub.docker.com/repository/docker/veronaz/project_5_verona
 
 ## Prerequisite
 
