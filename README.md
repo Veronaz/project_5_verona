@@ -2,7 +2,7 @@
 
 Public repo url: 
 
-# Prerequisite
+## Prerequisite
 
 ### Step 1
 Install docker cmd
@@ -11,6 +11,7 @@ Install docker cmd
 Install kubectl cmd
 
 ### Step 3
+
 ARM64:
 
 `Docker run -p 8080:80 veronaz/project_5_verona:latest`
@@ -18,3 +19,5 @@ ARM64:
 x86_64:
 
 `Docker run -p 8080:80 veronaz/project_5_verona:amdlatest`
+
+## Diagram
