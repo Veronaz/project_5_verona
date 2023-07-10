@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T02:09:12.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZT41Lg18BZjXKwv5LtyF" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T20:12:37.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dxbIsUFbh2WM7BHQUAmu" version="21.6.1" type="github">
   <diagram name="Page-1" id="1AczGnW73k5XlJmuj2Ov">
-    <mxGraphModel dx="984" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,9 +50,6 @@
         <mxCell id="67bZfnRdbJqTuJRju34Y-20" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_cloud;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="67bZfnRdbJqTuJRju34Y-21" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;" vertex="1" parent="1">
-          <mxGeometry x="300" y="230" width="80" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="67bZfnRdbJqTuJRju34Y-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.emr_cluster;fillColor=#F58534;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="152.24999999999997" y="300" width="55.5" height="63" as="geometry" />
         </mxCell>
@@ -63,7 +60,13 @@
           <mxGeometry x="120" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="67bZfnRdbJqTuJRju34Y-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="473.55" y="248" width="69" height="64" as="geometry" />
+          <mxGeometry x="305.5" y="350" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698678-icon-70-document-code-128.png" vertex="1" parent="1">
+          <mxGeometry x="450" y="363" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="67bZfnRdbJqTuJRju34Y-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/ssl-certificate-128.png" vertex="1" parent="1">
+          <mxGeometry x="276" y="500" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
