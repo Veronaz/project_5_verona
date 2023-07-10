@@ -14,7 +14,21 @@ Install kubectl cmd
 
 ### Step 3
 
-Download dockerhub image and run
+download this repo and go within the folder
+`git clone https://github.com/Veronaz/project_5_verona.git`
+
+### Step 4
+run kubectl cli 
+1. create namespace
+`kubectl create ns verona`
+
+2. apply deployment and service
+`kubectl apply -f deployment.yaml`
+`kubectl apply -f service.yaml`
+ 
+Docker image references 
+
+*(replace the depoyment image reference to 'veronaz/project_5_verona:latest' if necessary)
 
 ARM64:
 
@@ -26,6 +40,9 @@ x86_64:
 
 ## Diagram
 https://github.com/Veronaz/project_5_verona/blob/main/project_5_verona.drawio
+
+
+![project_5_verona drawio](https://github.com/Veronaz/project_5_verona/assets/115947471/73360353-6d7a-49f2-96de-5401be0ab122)
 
 ## Project requirement
 
